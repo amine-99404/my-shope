@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  background-image: url("https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.jpg");
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  border-top: 2px solid #fff;
+}
+footer p {
+  width: 90%;
+  margin: 0 auto;
+  color: #fff;
+  text-align: center;
+}
+footer a {
+  color: #fff;
+}
+
+.cart {
+  background: #333;
+  color: white;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px 25px;
+  margin-top: 15px;
+}
+.submit {
+  background: gray;
+  color: white;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px 25px;
+  margin-top: 15px;
+}
+
+.btn{
+  display: flex;
+  
+  justify-content: space-between;
+  justify-items: center;
+}
+.logo{
+  width: 55px;
+  height: 55px;
+  cursor: pointer;
+}
+
